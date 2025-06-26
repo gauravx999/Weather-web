@@ -1,0 +1,24 @@
+{
+  "name": "weather-web",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000W\u0000e\u0000a\u0000t\u0000h\u0000e\u0000r\u0000-\u0000w\u0000e\u0000b\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "dependencies": {
+    "leaflet": "^1.9.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gauravx999/Weather-web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gauravx999/Weather-web/issues"
+  },
+  "homepage": "https://github.com/gauravx999/Weather-web#readme"
+}
